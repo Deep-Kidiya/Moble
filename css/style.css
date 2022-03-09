@@ -73,14 +73,14 @@ nav {
     border-top: 600px solid #fff;
     border-right: 800px solid transparent;
     border-bottom: 600px solid #fff;
-    border-left: 927px solid #fff;
+    border-left: 825px solid #fff;
     position: absolute;
     top: -91px;
 }
 
 #circle {
-    width: 1400px;
-    height: 1250px;
+    width: 1308px;
+    height: 1150px;
     position: absolute;
     top: 0;
     left: 30%;
@@ -144,7 +144,7 @@ nav {
     width: 350px;
     position: absolute;
     top: 53%;
-    left: 75%;
+    left: 60%;
     transform: translateY(-50%);
     z-index: 1;
 }
